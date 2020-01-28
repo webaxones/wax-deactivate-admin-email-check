@@ -1,0 +1,13 @@
+{
+    "name": "Webaxones/wax-deactivate-admin-email-check",
+    "description": "Hide ACF menu from admin for every users except Webaxones",
+    "license": "GPL-2.0",
+    "authors": [{
+        "name": "Webaxones",
+        "email": "contact@webaxones.com"
+    }],
+    "type": "wordpress-muplugin",
+    "require": {
+        "composer/installers": "~1.0"
+    }
+}
